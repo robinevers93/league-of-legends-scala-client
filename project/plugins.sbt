@@ -1,0 +1,6 @@
+addSbtPlugin("com.github.sbt" % "sbt-release" % "1.1.0")
+addSbtPlugin("net.vonbuchholtz" % "sbt-dependency-check" % "1.3.3")
+addSbtPlugin("org.scoverage" % "sbt-scoverage" % "1.8.2")
+addSbtPlugin("org.jmotor.sbt" % "sbt-dependency-updates" % "1.2.2")
+addSbtPlugin("ch.epfl.scala" % "sbt-scalafix" % "0.9.30")
+addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.8.8")

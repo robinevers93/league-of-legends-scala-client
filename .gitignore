@@ -1,0 +1,13 @@
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+.bloop/
+.bsp/
+.metals/
+.vscode/
+project/.bloop/
+**/metals.sbt
+sample-ivy.credentials
